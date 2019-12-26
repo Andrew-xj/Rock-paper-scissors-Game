@@ -3,7 +3,7 @@ Rock-paper-scissors Game
 
 ## Introductions:
 
-Rock-paper-scissors is a project based on verilog language development. It is a experiment project for my required course, Comprehensive experiment of digital circuit. 
+Rock-paper-scissors Game is a project based on verilog language development. It is a experiment project for my required course, Comprehensive experiment of digital circuit. 
 
 Most of these modules are well tested and shouldn't have issues. However, I'm generally allowing myself to upload things which may have issues.
 
