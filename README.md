@@ -1,6 +1,13 @@
 Rock-paper-scissors Game
 ======================================
 
+
+## Demolib:
+
+[Chinese]: https://github.com/Andrew-xj/Rock-paper-scissors-Game/blob/master/README-zh.md
+
+README  English | Chinese
+
 ## Introductions:
 
 Rock-paper-scissors Game is a project based on verilog language development. It is a experiment project for my required course, Comprehensive experiment of digital circuit. 
