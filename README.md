@@ -4,9 +4,7 @@ Rock-paper-scissors Game
 
 ## Demolib:
 
-[Chinese]: https://github.com/Andrew-xj/Rock-paper-scissors-Game/blob/master/README-zh.md
-
-README  English | Chinese
+README  English | [Chinese](https://github.com/Andrew-xj/Rock-paper-scissors-Game/blob/master/README-zh.md)
 
 ## Introductions:
 
